@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adminka", "adminka.csproj", "{09005217-5C29-4831-BE36-CC157BA2CF87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeSQLCodes", "..\MakeSQLCodes\MakeSQLCodes.csproj", "{3F1BA54A-858D-4C7C-A29D-A0279673B671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_parser", "..\XML_parser\XML_parser.csproj", "{30454DE5-5350-4715-A730-A4638CA6B051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09005217-5C29-4831-BE36-CC157BA2CF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09005217-5C29-4831-BE36-CC157BA2CF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09005217-5C29-4831-BE36-CC157BA2CF87}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{09005217-5C29-4831-BE36-CC157BA2CF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09005217-5C29-4831-BE36-CC157BA2CF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09005217-5C29-4831-BE36-CC157BA2CF87}.Release|x86.ActiveCfg = Release|Any CPU
+		{3F1BA54A-858D-4C7C-A29D-A0279673B671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1BA54A-858D-4C7C-A29D-A0279673B671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1BA54A-858D-4C7C-A29D-A0279673B671}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3F1BA54A-858D-4C7C-A29D-A0279673B671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1BA54A-858D-4C7C-A29D-A0279673B671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1BA54A-858D-4C7C-A29D-A0279673B671}.Release|x86.ActiveCfg = Release|Any CPU
+		{30454DE5-5350-4715-A730-A4638CA6B051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30454DE5-5350-4715-A730-A4638CA6B051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30454DE5-5350-4715-A730-A4638CA6B051}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{30454DE5-5350-4715-A730-A4638CA6B051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30454DE5-5350-4715-A730-A4638CA6B051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30454DE5-5350-4715-A730-A4638CA6B051}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
