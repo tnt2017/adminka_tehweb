@@ -1,0 +1,13 @@
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\bin\Debug\adminka_oper.exe.config
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka_oper.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka_oper.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\bin\Debug\adminka_oper.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\bin\Debug\adminka_oper.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\bin\Debug\mysql.data.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka_oper.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka_oper.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka_oper.csproj.ResolveComReference.cache
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.LoginForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.OperForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.AdminForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.RksForm.resources

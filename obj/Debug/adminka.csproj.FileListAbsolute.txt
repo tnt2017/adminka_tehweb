@@ -1,0 +1,178 @@
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\bin\Debug\mysql.data.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.csproj.ResolveComReference.cache
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.AdminForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.LoginForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.OperForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.RksForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\bin\Debug\adminka.exe.config
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\bin\Debug\adminka.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\bin\Debug\adminka.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka_oper\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\adminka.exe.config
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\adminka.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\adminka.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.csproj.ResolveComReference.cache
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.AdminForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormAudit.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormCosts.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormDayStat.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormDostavka.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormDostavkaUserCard.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormGlobalStat.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.LoginForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.OperForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.RksForm.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormRksBonus.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\adminka.exe.config
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.csproj.ResolveComReference.cache
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.exe
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.pdb
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.AdminForm.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormAudit.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormCosts.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormDayStat.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormDostavka.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormDostavkaUserCard.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormGlobalStat.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.LoginForm.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.OperForm.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.RksForm.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.FormRksBonus.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.Properties.Resources.resources
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\adminka.exe
+C:\Users\plus\Documents\Visual Studio 2015\Projects\adminka\adminka\bin\Debug\adminka.pdb
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\bin\Debug\adminka.exe.config
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\bin\Debug\adminka.exe
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\bin\Debug\adminka.pdb
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.csproj.ResolveComReference.cache
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.AdminForm.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormAudit.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormChart.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormCosts.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormDayCosts.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormDayStat.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormDostavka.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormDostavkaUserCard.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.LoginForm.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.OperForm.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormOstatki.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormQueueReset.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormQueueStat.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.RksForm.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormRksBonus.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormRksStatus.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormStata.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormTableProfit.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormUsers.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormZarplata.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormZP.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.FormZP2.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.Properties.Resources.resources
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.exe
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.pdb
+C:\Users\ivano\Documents\Visual Studio 2015\Projects\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+D:\Projects\adminka\bin\Debug\adminka.exe.config
+D:\Projects\adminka\obj\Debug\adminka.csproj.ResolveComReference.cache
+D:\Projects\adminka\obj\Debug\adminka.exe
+D:\Projects\adminka\obj\Debug\adminka.pdb
+D:\Projects\adminka\obj\Debug\adminka.AdminForm.resources
+D:\Projects\adminka\obj\Debug\adminka.FormAudit.resources
+D:\Projects\adminka\obj\Debug\adminka.FormChart.resources
+D:\Projects\adminka\obj\Debug\adminka.FormCosts.resources
+D:\Projects\adminka\obj\Debug\adminka.FormDayCosts.resources
+D:\Projects\adminka\obj\Debug\adminka.FormDayStat.resources
+D:\Projects\adminka\obj\Debug\adminka.FormDostavka.resources
+D:\Projects\adminka\obj\Debug\adminka.FormDostavkaUserCard.resources
+D:\Projects\adminka\obj\Debug\adminka.LoginForm.resources
+D:\Projects\adminka\obj\Debug\adminka.OperForm.resources
+D:\Projects\adminka\obj\Debug\adminka.FormOstatki.resources
+D:\Projects\adminka\obj\Debug\adminka.FormQueueReset.resources
+D:\Projects\adminka\obj\Debug\adminka.FormQueueStat.resources
+D:\Projects\adminka\obj\Debug\adminka.RksForm.resources
+D:\Projects\adminka\obj\Debug\adminka.FormRksBonus.resources
+D:\Projects\adminka\obj\Debug\adminka.FormRksStatus.resources
+D:\Projects\adminka\obj\Debug\adminka.FormStata.resources
+D:\Projects\adminka\obj\Debug\adminka.FormTableProfit.resources
+D:\Projects\adminka\obj\Debug\adminka.FormUsers.resources
+D:\Projects\adminka\obj\Debug\adminka.FormZarplata.resources
+D:\Projects\adminka\obj\Debug\adminka.FormZP.resources
+D:\Projects\adminka\obj\Debug\adminka.FormZP2.resources
+D:\Projects\adminka\obj\Debug\adminka.Properties.Resources.resources
+D:\Projects\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
+D:\Projects\adminka\bin\Debug\adminka.exe
+D:\Projects\adminka\bin\Debug\adminka.pdb
+D:\Projects\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+F:\adminka27042017\adminka\bin\Debug\adminka.exe.config
+F:\adminka27042017\adminka\obj\Debug\adminka.csproj.ResolveComReference.cache
+F:\adminka27042017\adminka\obj\Debug\adminka.exe
+F:\adminka27042017\adminka\obj\Debug\adminka.pdb
+F:\adminka27042017\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+F:\adminka27042017\adminka\obj\Debug\adminka.AdminForm.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormAudit.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormChart.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormCosts.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormDayCosts.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormDayStat.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormDostavka.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormDostavkaUserCard.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.LoginForm.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.OperForm.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormOstatki.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormQueueReset.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormQueueStat.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.RksForm.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormRksBonus.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormRksStatus.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormStata.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormTableProfit.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormUsers.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormZarplata.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormZP.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.FormZP2.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.Properties.Resources.resources
+F:\adminka27042017\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
+F:\adminka27042017\adminka\bin\Debug\adminka.exe
+F:\adminka27042017\adminka\bin\Debug\adminka.pdb
+E:\adminka27042017\adminka\bin\Debug\adminka.exe.config
+E:\adminka27042017\adminka\obj\Debug\adminka.csproj.ResolveComReference.cache
+E:\adminka27042017\adminka\obj\Debug\adminka.exe
+E:\adminka27042017\adminka\obj\Debug\adminka.pdb
+E:\adminka27042017\adminka\bin\Debug\adminka.exe
+E:\adminka27042017\adminka\bin\Debug\adminka.pdb
+E:\adminka27042017\adminka\obj\Debug\adminka.csprojResolveAssemblyReference.cache
+E:\adminka27042017\adminka\obj\Debug\adminka.AdminForm.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormAudit.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormChart.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormCosts.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormDayCosts.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormDayStat.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormDostavka.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormDostavkaUserCard.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.LoginForm.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.OperForm.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormOstatki.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormQueueReset.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormQueueStat.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.RksForm.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormRksBonus.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormRksStatus.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormStata.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormTableProfit.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormUsers.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormZarplata.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormZP.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.FormZP2.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.Properties.Resources.resources
+E:\adminka27042017\adminka\obj\Debug\adminka.csproj.GenerateResource.Cache
